@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "printMyName", "printMyName.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "repeatMyName", "..\repeatMyName\repeatMyName.csproj", "{58A0E10C-122E-4D0E-8F08-BBFC9CFD2CE1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "stringAnalysis", "..\stringAnalysis\stringAnalysis.csproj", "{9C2B69E7-64C3-44EA-8377-0DA5F1EEF132}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "charsInString", "..\stringAnalysis\charsInString.csproj", "{9C2B69E7-64C3-44EA-8377-0DA5F1EEF132}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bodyMassIndex", "..\bodyMassIndex\bodyMassIndex.csproj", "{AFC892C4-88A9-4FCA-8603-704808A3C742}"
 EndProject
